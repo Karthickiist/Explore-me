@@ -9,9 +9,23 @@ h1{
   font-family: 'Sacramento', cursive;
   font-size: 5.6rem;
   margin-top: 50px;
+  color: #66BFBF;
+  line-height: 2;
 }
 h2{
   font-size: 2.5rem;
+  color: #66BFBF;
+  font-weight: normal;
+}
+h3{
+  color: #66BFBF;
+}
+a{
+  text-decoration: none;
+}
+.my_image{
+  width: 30%;
+  float: left;
 }
 .bottom-cloud{
   position: absolute;
@@ -26,9 +40,16 @@ h2{
   padding-top: 100px;
   position: relative;
 }
-.middle{
-
+.i_am{
+  width: 75%;
+  margin: 50px auto 50px auto;
+  text-align: left;
+  line-height: 30px;
 }
-.bottom{
+.hyperlinks{
+  position: absolute;
+  top:20px;
+  right: 60px;
+  word-spacing: 30px;
 
 }
